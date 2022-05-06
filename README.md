@@ -45,6 +45,4 @@ Created in Blender 3.1.2
 None
 
 ## Created by 
-
-Jason Francis
-```
+Jack Joseph
